@@ -76,10 +76,9 @@
 <h2 align="center">Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/logapriya-kumaran/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-silver?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:logapriya.primary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-silver?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
 </p>
-
