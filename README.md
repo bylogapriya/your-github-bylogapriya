@@ -4,7 +4,8 @@
 
 <div align="center">
   <blockquote>
-    "Hi I am logapriya, Statistics student focused on research and computational approaches to data problems."
+    "Statistics and research focused on computational and statistical methods. Works with structured data systems and analytical modeling.
+             Engaged in applied and methodological research problems.Builds reproducible computational workflows and analyses."
   </blockquote>
 </div>
 
